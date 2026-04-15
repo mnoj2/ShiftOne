@@ -7,3 +7,5 @@
 > Database Scripts - https://github.com/mnoj2/shiftone-database
 
 > Ocr Service - https://github.com/mnoj2/shiftone--ocr-service
+
+> Screenshots - https://github.com/mnoj2/ShiftOne-Screenshots
